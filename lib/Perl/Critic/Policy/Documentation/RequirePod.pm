@@ -1,4 +1,5 @@
 package Perl::Critic::Policy::Documentation::RequirePod;
+# ABSTRACT: file requires POD
 
 use utf8;
 use strict;
@@ -40,10 +41,6 @@ sub violates {
 }
 
 1;
-
-__END__
-
-# ABSTRACT: file requires POD
 
 =pod
 

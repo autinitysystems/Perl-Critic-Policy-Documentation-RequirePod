@@ -1,6 +1,6 @@
 # Perl::Critic::Policy::Documentation::RequirePod
 
-put your description here
+This policy requires your code to contain POD.
 
 ## Copyright & License
 

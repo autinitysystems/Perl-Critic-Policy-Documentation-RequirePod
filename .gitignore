@@ -1,0 +1,7 @@
+# dist stuff
+/Perl-Critic-Policy-Documentation-RequirePod-*.tar.gz
+/Perl-Critic-Policy-Documentation-RequirePod-*/
+
+# sublime
+*.sublime*
+

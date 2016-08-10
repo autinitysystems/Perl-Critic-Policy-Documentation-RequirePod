@@ -2,6 +2,9 @@
 /Perl-Critic-Policy-Documentation-RequirePod-*.tar.gz
 /Perl-Critic-Policy-Documentation-RequirePod-*/
 
+# sshfs crap
+.fuse_hidden*
+
 # sublime
 *.sublime*
 

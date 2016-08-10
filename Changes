@@ -1,5 +1,9 @@
 {{$NEXT}}
 
+Removed duplicate NAME pod.
+
+0.003     2016-08-10 15:30:14+02:00 Europe/Berlin
+
 Added PodWeaver.
 
 0.002     2016-08-10 15:20:36+02:00 Europe/Berlin

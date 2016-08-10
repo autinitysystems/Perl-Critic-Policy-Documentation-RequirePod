@@ -46,10 +46,6 @@ sub violates {
 
 =encoding UTF-8
 
-=head1 NAME
-
-Perl::Critic::Policy::Documentation::RequirePod - file requires POD
-
 =head1 DESCRIPTION
 
 This policy requires your code to contain POD.
